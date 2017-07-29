@@ -1,0 +1,39 @@
+{
+  "name": "react-redux-adminlte-app",
+  "version": "0.0.0",
+  "description": "react, redux, admin-lte to build an web application",
+  "main": "tools/dev.js",
+  "scripts": {
+    "test": "tools/dev.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WenXuanYuan/react-redux-adminlte-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "admin-lte"
+  ],
+  "author": "wen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WenXuanYuan/react-redux-adminlte-app/issues"
+  },
+  "homepage": "https://github.com/WenXuanYuan/react-redux-adminlte-app#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.2",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-eslint": "^7.2.3",
+    "babel-loader": "^7.1.1",
+    "eslint": "^4.3.0",
+    "webpack": "^3.4.1"
+  }
+}
